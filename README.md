@@ -111,7 +111,7 @@
         Reliability: A reliable product reduces the risk of failures and downtime.
         Compliance: In certain industries, quality assurance is essential for compliance with regulations and standards.
 
-6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
      
       Project scope outlines the boundaries of a project, defining what is and is not included. A well-defined scope is crucial for successful project planning because:
         Provides Clarity: It ensures everyone involved understands the project's objectives, deliverables, and constraints.
