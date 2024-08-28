@@ -8,6 +8,7 @@
         .Execution 
         .Monitoring and
         .Control
+
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
      
       Effective cost control in software project
@@ -120,7 +121,7 @@
         Facilitates Decision Making: It provides a framework for making informed decisions throughout the project lifecycle.
       
       Work Breakdown Structure (WBS): A Powerful Tool
-        A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project into smaller, more manageable tasks. It's a visual representation that breaks down a project into           its constituent parts, from the broadest level to the most detailed.
+        A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project into smaller, more manageable tasks. It's a visual representation that breaks down a project into its constituent parts, from the broadest level to the most detailed.
       
       Why is a WBS useful?
         Clarity and Organization: It provides a clear and structured view of the project, making it easier to understand and manage.
@@ -139,7 +140,7 @@
         Decision Making: A schedule provides a basis for making informed decisions about resource allocation, scope changes, and contingency planning.
        
       Gantt charts are a visual tool that helps in planning, scheduling, and monitoring specific tasks and resources in a project.
-        They provide a graphical representation of the project timeline, including scheduled and completed work over a period of time. Here's how they can assist in the project                  scheduling process:   
+        They provide a graphical representation of the project timeline, including scheduled and completed work over a period of time. Here's how they can assist in the project scheduling process:   
          
           Visual Representation: Gantt charts present a clear and concise overview of the project timeline, making it easier to understand and communicate.   
           Task Scheduling: They allow you to break down the project into smaller, manageable tasks, assigning start and end dates to each.   
@@ -151,7 +152,7 @@
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
       
-      My software aims to solve the issues of student accommodation. these are student who can't afford hostel accommodation thereby, they are left with no option than to rent                 accommodation off-campus. The challenge here is that they, are prone to get over charged or scamped if they don't get the right real estate agent for any house they want to rent.
+      My software aims to solve the issues of student accommodation. these are students who can't afford hostel accommodation thereby, they are left with no option but to rent accommodation off-campus. The challenge here is that they are prone to get overcharged or scamped if they don't get the right real estate agent for any house they want to rent.
       
       Core Issues and Their Significance for My Target Audience
       
@@ -182,7 +183,7 @@
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
       
         Software Solution: A mobile app that helps users find affordable and reliable off-campus housing.
-        Description: "Our app is your one-stop shop for finding the perfect place to live. We connect students with verified landlords and real estate agents, providing a safe and               hassle-free experience. With our easy-to-use search filters and detailed listings, you can quickly find the ideal accommodation that fits your budget and preferences."
+        Description: "Our app is your one-stop shop for finding the perfect place to live. We connect students with verified landlords and real estate agents, providing a safe and hassle-free experience. With our easy-to-use search filters and detailed listings, you can quickly find the ideal accommodation that fits your budget and preferences."
 
 ## 11. What are the main features or functionalities that make your software stand out?
      
@@ -219,12 +220,12 @@
       Market Size:
         Global: The global student accommodation market is expected to reach $6.72 billion by 2030, growing at a CAGR of 8.4% from 2024 to 2030. (Source: Verified Market Research)   
         Regional: Specific regions, such as the UK and the US, have large and growing student populations, driving demand for student accommodation software.
-        Note:While specific market data for Nigeria may be more limited, the global trends and factors driving growth in the student accommodation market suggest a strong potential for          the software solution.
+        Note:While specific market data for Nigeria may be more limited, the global trends and factors driving growth in the student accommodation market suggest a strong potential for the software solution.
      
       Growth Potential:
         Continued Expansion: The rising number of students and the increasing preference for off-campus living are expected to drive continued growth in the market.
-        Technological Innovations: The development of new features and functionalities, such as virtual tours and AI-powered recommendations, can further enhance the appeal of student           accommodation software.
-        Integration with Other Services: Integrating with other student-focused services, such as campus portals and payment gateways, can create additional value and opportunities for          growth.
+        Technological Innovations: The development of new features and functionalities, such as virtual tours and AI-powered recommendations, can further enhance the appeal of student accommodation software.
+        Integration with Other Services: Integrating with other student-focused services, such as campus portals and payment gateways, can create additional value and opportunities for growth.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
       Understanding market trends is essential for effectively positioning and developing my software solution. Here's how it can inform my strategy:
@@ -232,4 +233,4 @@
         Identify Competitors: Knowing my competitors' strengths and weaknesses can help me differentiate the software and identify opportunities for improvement.
         Anticipate Future Needs: By understanding emerging trends, I can anticipate future needs and incorporate features that will keep the software relevant and competitive.
         Optimize Marketing Strategy: Market trends can inform my marketing efforts by helping me target the right audience and messaging.
-        Adjust Product Development: Based on market trends, I can make adjustments to the product roadmap and development priorities to ensure the software remains aligned with customer         needs.
+        Adjust Product Development: Based on market trends, I can make adjustments to the product roadmap and development priorities to ensure the software remains aligned with customer needs.
